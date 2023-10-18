@@ -7,7 +7,6 @@
 
 - 📚 Atualmente estou estudando Lógica de Programação e as bases da web (HTML, CSS e JS).
 - 💻 Explorando as possibilidades no mundo da programação, com foco no Desenvolvimento Web e Mobile.
-- ✨ Amo pintura, música e fotografia.
 - 🎯 Ansiosa para colaborar em projetos e adquirir experiência prática.
 
 ## Áreas de Interesse
@@ -15,7 +14,7 @@
 - 📱 Aplicativos Móveis
 - 🎨 Design de Interface
 - 🔗 Desenvolvimento Web
-- 🔐 Desenvolvimetno Seguro
+- 🔐 Desenvolvimento Seguro
 
 
 
