@@ -14,7 +14,6 @@
 - 📱 Aplicativos Móveis
 - 🎨 Design de Interface
 - 🔗 Desenvolvimento Web
-- 🔐 Desenvolvimento Seguro
 
 
 
