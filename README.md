@@ -10,10 +10,11 @@
 - 🎯 Ansiosa para colaborar em projetos e adquirir experiência prática.
 
 ## Áreas de Interesse
-
+- 🔐 Cibersegurança 
 - 📱 Aplicativos Móveis
 - 🎨 Design de Interface
 - 🔗 Desenvolvimento Web
+
 
 
 
